@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://wangjun007wangjun.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Jul 2019 11:38:22 +0800</lastBuildDate>
+    
+	<atom:link href="https://wangjun007wangjun.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blog</title>
+      <link>https://wangjun007wangjun.github.io/post/blog/</link>
+      <pubDate>Sat, 20 Jul 2019 11:38:22 +0800</pubDate>
+      
+      <guid>https://wangjun007wangjun.github.io/post/blog/</guid>
+      <description>Tranquilpeak 
+A gorgeous responsive theme for Hugo blog framework.
+Alpha/Beta versions ATTENTION during alpha or beta versions breaking changes are possible on config file.
+You can track breaking changes label.
+How can I migrate my current version? Please read CHANGELOG.md.
+Credits Hugo version of Tranquilpeak is a based on original Hexo version https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak. This version is simply a port to Hugo static site generator.
+Please all the credit should be attributed to original Hexo version and its author Louis Barranqueiro.</description>
+    </item>
+    
+  </channel>
+</rss>
